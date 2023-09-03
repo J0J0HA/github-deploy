@@ -1,0 +1,9 @@
+name: {name}
+
+on:
+  push:
+    branches:    
+      - main
+
+jobs:
+  - 
